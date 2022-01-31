@@ -4,7 +4,7 @@ YOU ARE NOT ALLOWED TO MODIFY ANY FUNCTION DEFINATION's PROVIDED.
 WRITE YOUR CODE IN THE RESPECTIVE FUNCTION BLOCK
 */
 
-/*This assignment took 15 hours to complete and served as a jostler to an amateur coder like me, 
+/*This assignment took 8 hours to complete and served as a jostler to an amateur coder like me, 
  * who gets a sense of wanting to learn more after executing these simple yet didactic programs. 
  * Though I was able to put together a logic good enough to execute the program, there is an area of 
  * improvement in terms of the optimization of the code.
